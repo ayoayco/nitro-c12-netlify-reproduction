@@ -1,3 +1,1 @@
-# Nitro starter
-
-Look at the [nitro quick start](https://nitro.unjs.io/guide#quick-start) to learn more how to get started.
+Minimal reproduction for issue [nitro#2986](https://github.com/nitrojs/nitro/issues/2986)
